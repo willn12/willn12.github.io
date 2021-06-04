@@ -1,0 +1,52 @@
+.title{
+    text-align:center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 250px;
+}
+
+.bg-image{
+    background: url(images/bg-image.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+
+}
+.topics{
+    border: 2px solid white ;
+    border-radius: 25px;
+    border-top: 15px;
+    text-align:center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 150px;
+}
+
+.about{
+    text-align:center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 120px;
+}
+
+.me{
+    text-align:right;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+}
+
+.subtopic{
+    text-align:center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 175px;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
+
+.social{
+    size: 100px
+}
